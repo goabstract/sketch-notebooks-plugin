@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Abstract Notebooks</title>
+    <link>https://raw.githubusercontent.com/goabstract/sketch-notebooks-plugin/master/abstract-notebooks.appcast.xml</link>
+    <description>Seamlessly share designs to your Abstract Notebooks</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
+      <enclosure url="https://www.github.com/goabstract/sketch-notebooks-plugin/releases/latest/download/abstract-notebooks.sketchplugin.zip" sparkle:version="1.0.2"/>
+    </item>
+  </channel>
+</rss>
