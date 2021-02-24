@@ -7,6 +7,7 @@ Product design is about so much more than the visuals you create. Abstract Noteb
 - Get feedback exactly when you need it, and control the review workflow start to finish.
 
 This plugin requires an [Abstract Notebooks account](abstract.com).
+Download the plugin [here] (https://github.com/goabstract/sketch-notebooks-plugin/releases).
 
 # Preview
 
