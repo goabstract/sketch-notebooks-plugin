@@ -6,9 +6,12 @@
     <description>Seamlessly share designs to your Abstract Notebooks</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
-      <pubDate>Wed, 24 Feb 2021 12:00:00 +0000</pubDate>
-      <enclosure url="https://www.github.com/goabstract/sketch-notebooks-plugin/releases/latest/download/abstract-notebooks.sketchplugin.zip" sparkle:version="1.0.2"/>
+      <title>Release v1.1.0</title>
+      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/1.1.0/abstract-notebooks.sketchplugin.zip" sparkle:version="1.1.0"/>
+    </item>
+    <item>
+      <title>Release vsketch@1.0.2</title>
+      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/sketch@1.0.2/abstract-notebooks.sketchplugin.zip" sparkle:version="sketch@1.0.2"/>
     </item>
   </channel>
 </rss>
