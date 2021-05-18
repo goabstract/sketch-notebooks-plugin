@@ -6,17 +6,12 @@
     <description>Seamlessly share designs to your Abstract Notebooks</description>
     <language>en</language>
     <item>
-      <title>Release v1.1.0</title>
-      <description>
-        - When creating a notebook, navigate to it afterwards.
-        - Fix an issue where an error screen would flash after login
-        - Improve performance when looking up existing frames/layers
-      </description>
-      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/1.1.0/abstract-notebooks.sketchplugin.zip" sparkle:version="1.1.0"/>
+      <title>Release v1.2.0</title>
+      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/1.2.0/abstract-notebooks.sketchplugin.zip" sparkle:version="1.2.0"/>
     </item>
     <item>
-      <title>Release v1.0.2</title>
-      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/sketch@1.0.2/abstract-notebooks.sketchplugin.zip" sparkle:version="1.0.2"/>
+      <title>Release v1.1.0</title>
+      <enclosure url="https://github.com/goabstract/sketch-notebooks-plugin/releases/download/1.1.0/abstract-notebooks.sketchplugin.zip" sparkle:version="1.1.0"/>
     </item>
   </channel>
 </rss>
